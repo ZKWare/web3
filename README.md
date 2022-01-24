@@ -6,4 +6,5 @@
 [Web 3 Wiki定义](https://en.wikipedia.org/wiki/Web3)
 
 [a16z分析师：Web3的可组合性成就了加密猫、Axie Infinity等链游](https://www.jinse.com/blockchain/1177567.html)
+
 [如何打造更好的互联网：世界领导人塑造 Web3 未来的 10 条原则](https://a16z.com/2022/01/07/how-to-build-a-better-internet-10-principles-for-world-leaders-shaping-the-future-of-web3/)
