@@ -10,3 +10,4 @@
 [如何打造更好的互联网：世界领导人塑造 Web3 未来的 10 条原则](https://a16z.com/2022/01/07/how-to-build-a-better-internet-10-principles-for-world-leaders-shaping-the-future-of-web3/)
 
 [新年预测：Web3 中期](https://a16z.com/2021/12/17/prediction-for-the-new-year-a-web3-midterm/)
+[赢得未来的下一步：我们的 web3 政策平台的新想法](https://a16z.com/2021/11/04/next-steps-to-win-the-future-new-ideas-for-our-web3-policy-platform/)
