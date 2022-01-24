@@ -5,3 +5,4 @@
 
 [Web 3 Wiki定义](https://en.wikipedia.org/wiki/Web3)
 
+[a16z分析师：Web3的可组合性成就了加密猫、Axie Infinity等链游](https://www.jinse.com/blockchain/1177567.html)
